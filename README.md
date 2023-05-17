@@ -1,2 +1,1 @@
-# DataScience
-Projects from Coursework
+# Data Science Projects
